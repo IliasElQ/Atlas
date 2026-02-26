@@ -4,7 +4,7 @@ version = "1.0.1-beta"
 edition = "2021"
 description = "Atlas | Production Monitor for GitHub Actions (GitLab coming soon)"
 authors = ["Ilias El Qadiri"]
-license = "MIT"
+license = "Apache-2.0"
 keywords = ["github", "actions", "tui", "monitor", "ci", "gitlab"]
 categories = ["command-line-utilities", "development-tools"]
 
